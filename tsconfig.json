@@ -3,8 +3,8 @@
   "compilerOptions": {
     "paths": {
       "@src/*": ["./src/*"],
-      "@assets/*": ["./assets/*"],
-      "@components/*": ["./components/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@components/*": ["./src/components/*"],
       "@themes/*": ["./src/themes/*"],
       "@constants/*": ["./src/constants/*"],
       "@services/*": ["./src/services/*"],
